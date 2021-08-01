@@ -39,6 +39,7 @@ themeSwitchToggleRef.addEventListener('change', () => {
     }
 })
 
+
 function updateTheme(addClass, remClass) {
     bodyRef.classList.add(addClass);
     bodyRef.classList.remove(remClass);
