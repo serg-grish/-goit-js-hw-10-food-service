@@ -1,4 +1,4 @@
-import menuTmpl from './templates/menu.hbs';
+import menuTmpl from '/templates/menu.hbs';
 import menuList from './templates/menu.json';
 
 const menuRef = document.querySelector('.js-menu');
